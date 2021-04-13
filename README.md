@@ -1,1 +1,2 @@
-# git-worktree-example
+# Git worktree example
+
